@@ -1,0 +1,9 @@
+# Default ignored files
+logs
+target
+.idea
+#Package Files#
+*.jar
+*.iml
+*.DS_Store
+
